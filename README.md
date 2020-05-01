@@ -1,2 +1,3 @@
-# leetcode-30days-may-challenge
-cpp solutions for all the leetcode 30 day May Challenge problems
+# Leetcode 30-day May Challenge
+C++ solutions for all the leetcode 30-day May Challenge problems
+
